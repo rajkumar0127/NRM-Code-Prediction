@@ -22,7 +22,7 @@ Globally, sustainable construction practices and accurate project estimation are
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/NRM-Code-Prediction.git
+   git clone https://github.com/rajkumar0127/NRM-Code-Prediction.git
    ```
 
 2. **Navigate to the Project Directory:**
