@@ -1,25 +1,48 @@
-# Project Title: NRM Code Prediction and Carbon Footprint Calculation 
-# 1. Introduction:
-In the pursuit of a remarkable project, we had the privilege of collaborating with some esteemed colleague. A client commissioned our project, titled “NRM Code Prediction and Carbon Footprint Calculation,”. Our initial objective was to predict NRM (New Rules of Measurement) codes from BS (British Standards) codes and map them to corresponding NRM names. However, through comprehensive study and insightful client consultations, we uncovered a more profound application—calculating the carbon footprint of buildings before construction. This discovery led us to reshape our project goals and approach.
+# NRM Code Prediction and Carbon Footprint Calculation
 
-# 2. Scope:
-The scope of our project extended beyond conventional code prediction. We aimed to create a comprehensive solution that not only accurately predicted NRM codes but also enabled the estimation of carbon footprints. This required us to understand the intricate relationships between BS codes, NRM codes, and NRM names. By integrating diverse machine learning techniques, we aimed to provide accurate predictions.
+## Introduction
 
-# 3. Methodology:
-Together, we employed a multifaceted approach to tackle our project's objectives. We harnessed the potential of Natural Language Processing (NLP) techniques, including vectorization, tokenization, data cleaning, preprocessing, stemming, and feature extraction. These techniques were instrumental in converting raw text data into a suitable format for machine learning models. Our model consisted of various algorithms, including Decision Trees, Random Forest, and Transfer Learning using BARD. This approach allowed us to harness the strengths of individual models for optimal predictions.
+Welcome to our **NRM Code Prediction and Carbon Footprint Calculation** project! We embarked on this remarkable journey in collaboration with esteemed colleagues, commissioned by a client with a unique challenge. Originally tasked with predicting NRM (New Rules of Measurement) codes from BS (British Standards) codes and mapping them to corresponding NRM names, our project took a transformative turn. We delved deeper, incorporating cutting-edge techniques to calculate the carbon footprint of buildings before construction.
 
-# 4. Implementation:
-Through seamless collaboration, we dedicated a focused week to the development phase. During this period, we established robust data pipelines, integrated NLP processes, and meticulously fine-tuned our ensemble model. Leveraging NLP techniques enabled us to unveil subtle semantic patterns within the codes, leading to precise predictions and mappings.
+## Project Highlights
 
-# 5. Results and Discussion:
-The culmination of our collaborative efforts yielded highly promising results. Each standalone model exceeded an impressive accuracy threshold of 90%. To further evaluate our approach, we integrated an ensemble strategy by amalgamating the most performant models: Decision Tree, Random Forest, and BARD Transfer Learning. This demonstrated the effectiveness of synergizing different models, ultimately yielding an accuracy that underscored the pragmatic viability of our solution.
+### Key Objectives
 
-# 6. Technological Gains:
-From a technological standpoint, our project provided an immersive journey into the realms of NLP and machine learning. Techniques such as vectorization, tokenization, stemming, and feature extraction empowered us to transform raw textual information into quantifiable data, ready for model training. The innovative integration of BARD Transfer Learning highlighted our ability to extract maximum value from existing resources, highlighting our versatility and technical prowess.
+1. **Accurate Code Prediction:** Our system accurately predicts NRM codes from BS codes and maps them to corresponding NRM names.
 
-# 7. Challenges and Lessons Learned:
-Throughout the project, challenges such as data quality, feature engineering, and model selection were encountered. These challenges became valuable learning experiences, enhancing our problem-solving skills and fostering adaptability. Our iterative development process ingrained the importance of refining strategies based on continuous feedback.
+2. **Carbon Footprint Estimation:** Utilizing advanced methodologies, our project calculates the carbon footprint of buildings, contributing to eco-friendly construction practices.
 
-# 8. Conclusion:
-In conclusion, our collaboration with team on the NRM Code Prediction and Carbon Footprint Calculation project was a transformative journey. The accuracy of our ensemble model, coupled with the insights gained in project management and start-up dynamics, constituted a holistic learning experience. The fusion of NLP and machine learning techniques exemplified their capacity to address complex real-world challenges while aligning with evolving project objectives.
+3. **Comprehensive Approach:** We integrate Natural Language Processing (NLP) techniques and diverse machine learning algorithms for precise predictions and environmental impact assessment.
 
+## Why It Matters
+
+Globally, sustainable construction practices and accurate project estimation are critical. By predicting NRM codes and calculating the carbon footprint, our project aligns with eco-conscious building initiatives, fostering environmentally responsible practices in the construction industry.
+
+## How to Use
+
+1. **Clone the Repository:**
+   ```
+   git clone https://github.com/your-username/NRM-Code-Prediction.git
+   ```
+
+2. **Navigate to the Project Directory:**
+   ```
+   cd NRM-Code-Prediction
+   ```
+
+3. **Run the Application:**
+   ```
+   python app.py
+   ```
+
+## Get Involved
+
+We invite passionate individuals to contribute to our project's growth. Whether you specialize in data analysis, machine learning, or environmental sciences, your expertise is invaluable. Feel free to submit pull requests, report issues, or suggest enhancements.
+
+## Acknowledgements
+
+We express our gratitude to the open-source community and all contributors for their invaluable support. Together, let's drive sustainable construction practices and create a greener, more efficient future.
+
+---
+
+Thank you for exploring our **NRM Code Prediction and Carbon Footprint Calculation** project. Your involvement advances our mission towards eco-conscious building and innovative predictive technologies. Let's build a sustainable future, one line of code at a time!
