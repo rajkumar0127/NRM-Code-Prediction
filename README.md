@@ -32,7 +32,7 @@ Globally, sustainable construction practices and accurate project estimation are
 
 3. **Run the Application:**
    ```
-   python app.py
+   jupyter notebook Prediction_on_excel.ipynb
    ```
 
 ## Get Involved
