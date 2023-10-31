@@ -16,7 +16,21 @@ Welcome to our **NRM Code Prediction and Carbon Footprint Calculation** project!
 
 ## Why It Matters
 
-Globally, sustainable construction practices and accurate project estimation are critical. By predicting NRM codes and calculating the carbon footprint, our project aligns with eco-conscious building initiatives, fostering environmentally responsible practices in the construction industry.
+Globally, sustainable construction practices and accurate project estimation are critical. By predicting NRM codes and calculating the carbon footprint, the owner can easily know the total carbon estimation before construction of the bulding.
+Once the building's carbon footprint has been calculated, it can be used to identify areas where emissions can be reduced. For example, the building owner may decide to invest in energy-efficient equipment or renewable energy sources to reduce the building's operational emissions. They may also choose to use sustainable materials and construction methods to reduce the building's embodied emissions.
+
+There are a number of different carbon footprint calculators available online and in software packages. These calculators can be used to simplify the LCA process and make it more accessible to building owners and operators.
+
+Here are some tips for reducing the carbon footprint of a building:
+
+    Use energy-efficient appliances and equipment.
+    Install renewable energy systems, such as solar panels or wind turbines.
+    Improve the building's insulation and air tightness.
+    Use sustainable materials and construction methods.
+    Reduce waste and recycle materials whenever possible.
+
+By taking these steps, building owners and operators can help to reduce their environmental impact and create more sustainable buildings.
+
 
 ## How to Use
 
