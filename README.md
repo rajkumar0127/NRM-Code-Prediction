@@ -8,7 +8,7 @@ Welcome to our **NRM Code Prediction and Carbon Footprint Calculation** project!
 
 ### Key Objectives
 
-1. **Accurate Code Prediction:** Our system accurately predicts NRM codes from BS codes and maps them to corresponding NRM names.
+1. **Accurate Code Prediction:** Our system accurately predicts NRM codes from the description of the project.
 
 2. **Carbon Footprint Estimation:** Utilizing advanced methodologies, our project calculates the carbon footprint of buildings, contributing to eco-friendly construction practices.
 
