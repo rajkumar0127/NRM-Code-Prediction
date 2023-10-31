@@ -22,12 +22,11 @@ Once the building's carbon footprint has been calculated, it can be used to iden
 There are a number of different carbon footprint calculators available online and in software packages. These calculators can be used to simplify the LCA process and make it more accessible to building owners and operators.
 
 Here are some tips for reducing the carbon footprint of a building:
-
-    Use energy-efficient appliances and equipment.
-    Install renewable energy systems, such as solar panels or wind turbines.
-    Improve the building's insulation and air tightness.
-    Use sustainable materials and construction methods.
-    Reduce waste and recycle materials whenever possible.
+1. Use energy-efficient appliances and equipment.
+2. Install renewable energy systems, such as solar panels or wind turbines.
+3. Improve the building's insulation and air tightness.
+4. Use sustainable materials and construction methods.
+5. Reduce waste and recycle materials whenever possible.
 
 By taking these steps, building owners and operators can help to reduce their environmental impact and create more sustainable buildings.
 
