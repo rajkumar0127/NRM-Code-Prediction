@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to our **NRM Code Prediction and Carbon Footprint Calculation** project! We embarked on this remarkable journey in collaboration with esteemed colleagues, commissioned by a client with a unique challenge. Originally tasked with predicting NRM (New Rules of Measurement) codes from Product Description and mapping, our project took a transformative turn. We delved deeper, incorporating cutting-edge techniques to calculate the carbon footprint of buildings before construction.
+Welcome to our **NRM Code Prediction and Carbon Footprint Calculation** project! We embarked on this remarkable journey in collaboration with esteemed colleagues, commissioned by a client with a unique challenge. Originally tasked with predicting NRM (New Rules of Measurement) codes from Product Description, our project took a transformative turn. We delved deeper, incorporating cutting-edge techniques to calculate the carbon footprint of buildings before construction.
 
 ## Project Highlights
 
